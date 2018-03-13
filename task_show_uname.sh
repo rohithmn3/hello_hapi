@@ -10,3 +10,4 @@ echo "################"
 docker
 echo "################"
 docker images
+id
