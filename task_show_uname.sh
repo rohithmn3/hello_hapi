@@ -2,3 +2,4 @@
 echo "************************"
 echo "Rohith"
 echo "************************"
+docker images
